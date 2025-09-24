@@ -5,3 +5,5 @@ seaborn
 datetime
 scikit-learn
 statsmodels
+tensorflow
+prophet
